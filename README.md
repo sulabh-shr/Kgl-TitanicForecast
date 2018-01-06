@@ -19,7 +19,7 @@ The correlation of features used in this project:
 
 The **data** folder *should* contain our train and test data in the csv format. Following the regulations of Kaggle,
 I am not uploading the data here. In order to get this data yourself, you can enter the Kaggle competition-
-Titanic: Machine Learning from Disaster [https://www.kaggle.com/c/titanic].
+[Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic).
   
 The **predictions** folder is used to save the csv file containing our predictions. It will be available once you
 properly run model.
